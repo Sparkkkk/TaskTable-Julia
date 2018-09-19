@@ -3,4 +3,4 @@
 *.jl.mem
 deps/deps.jl
 .DS_Store
-
+*_DS_Store
